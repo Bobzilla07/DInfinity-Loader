@@ -1,5 +1,5 @@
 # DInfinity Loader 1.0
-
+#**IMPORTANT THIS WILL CONTAIN SKYLANDERS EVENTUALLY**
 **by Bobzilla07**
 
 DInfinity Loader is an Xbox 360 plugin for **Disney Infinity 1.0, 2.0, and 3.0**.
